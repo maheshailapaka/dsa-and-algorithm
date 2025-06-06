@@ -66,5 +66,3 @@ Contributions are welcome! If you want to add new problems, improve existing imp
 This repository is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Happy Coding!
